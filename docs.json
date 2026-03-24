@@ -31,8 +31,7 @@
             "group": "Grafite Help",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "overview"
             ]
           },
           {
