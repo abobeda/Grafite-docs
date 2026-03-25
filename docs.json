@@ -43,8 +43,7 @@
             "group": "Top Left Area",
             "pages": [
               "file-menu",
-              "gallery-button",
-              "sketch-name-box"
+              "gallery-button"
             ]
           }
         ]
