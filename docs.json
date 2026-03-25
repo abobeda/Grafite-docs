@@ -54,6 +54,12 @@
               "export",
               "canvas"
             ]
+          },
+          {
+            "group": "Left Toolbar",
+            "pages": [
+              "brushes"
+            ]
           }
         ]
       }
