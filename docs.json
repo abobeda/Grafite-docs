@@ -45,6 +45,15 @@
               "file-menu",
               "gallery-button"
             ]
+          },
+          {
+            "group": "Top Right Area",
+            "pages": [
+              "view",
+              "import",
+              "export",
+              "canvas"
+            ]
           }
         ]
       }
