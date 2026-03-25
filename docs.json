@@ -116,5 +116,13 @@
   },
   "appearance": {
     "strict": true
+  },
+  "fonts": {
+    "family": "Geist",
+    "weight": 500,
+    "heading": {
+      "family": "Geist",
+      "weight": 700
+    }
   }
 }
