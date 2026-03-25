@@ -101,8 +101,5 @@
     "color": {
       "dark": "#0f0f10"
     }
-  },
-  "banner": {
-    "dismissible": false
   }
 }
