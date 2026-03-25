@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#bebebe",
     "light": "#ffffff",
-    "dark": "#15803D"
+    "dark": "#0f0f10"
   },
   "navigation": {
     "global": {
@@ -100,6 +100,11 @@
     "heading": {
       "family": "Geist",
       "weight": 700
+    }
+  },
+  "background": {
+    "color": {
+      "dark": "#0f0f10"
     }
   }
 }
