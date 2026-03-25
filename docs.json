@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Grafite Handbook",
   "colors": {
-    "primary": "#92c6ca",
+    "primary": "#bebebe",
     "light": "#ffffff",
     "dark": "#0f0f10"
   },
@@ -65,9 +65,14 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@grafite.app"
       }
-    ]
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Download Grafite",
+      "href": "https://grafite.app"
+    }
   },
   "contextual": {
     "options": [
