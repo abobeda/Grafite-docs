@@ -23,38 +23,23 @@
         "groups": [
           {
             "group": "Grafite Overview",
-            "pages": [
-              "index",
-              "overview"
-            ]
+            "pages": ["index", "overview"]
           },
           {
             "group": "Touch Screen Basics",
-            "pages": [
-              "basic-gestures"
-            ]
+            "pages": ["basic-gestures"]
           },
           {
             "group": "Top Left Area",
-            "pages": [
-              "file-menu",
-              "gallery-button"
-            ]
+            "pages": ["file-menu", "gallery-button"]
           },
           {
             "group": "Top Right Area",
-            "pages": [
-              "view",
-              "import",
-              "export",
-              "canvas"
-            ]
+            "pages": ["view", "import", "export", "canvas"]
           },
           {
             "group": "Left Toolbar",
-            "pages": [
-              "brushes"
-            ]
+            "pages": ["brushes"]
           }
         ]
       }
@@ -76,15 +61,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
