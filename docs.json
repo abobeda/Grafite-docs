@@ -36,6 +36,13 @@
             ]
           },
           {
+            "group": "Board screen",
+            "pages": [
+              "inside-a-board",
+              "organize-references"
+            ]
+          },
+          {
             "group": "References screen",
             "pages": []
           }
