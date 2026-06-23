@@ -26,20 +26,12 @@
             "pages": ["index", "overview"]
           },
           {
-            "group": "Touch Screen Basics",
+            "group": "Home screen",
             "pages": []
           },
           {
-            "group": "Top Left Area",
-            "pages": ["file-menu", "gallery-button"]
-          },
-          {
-            "group": "Top Right Area",
-            "pages": ["view", "import", "export", "canvas"]
-          },
-          {
-            "group": "Left Toolbar",
-            "pages": ["brushes"]
+            "group": "References screen",
+            "pages": []
           }
         ]
       }
