@@ -44,7 +44,12 @@
           },
           {
             "group": "References screen",
-            "pages": []
+            "pages": [
+              "references",
+              "organize-references-1",
+              "search-references",
+              "focus-view"
+            ]
           }
         ]
       }
