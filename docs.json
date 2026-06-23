@@ -27,7 +27,10 @@
           },
           {
             "group": "Home screen",
-            "pages": []
+            "pages": [
+              "all-boards",
+              "recently-added"
+            ]
           },
           {
             "group": "References screen",
