@@ -29,7 +29,10 @@
             "group": "Home screen",
             "pages": [
               "all-boards",
-              "recently-added"
+              "recently-added",
+              "organize-boards",
+              "add-board",
+              "info-and-help"
             ]
           },
           {
