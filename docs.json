@@ -11,8 +11,7 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Grafite",
-          "icon": "globe",
+          "anchor": "Grafite Help",
           "href": "https://grafite.app"
         }
       ]
@@ -55,7 +54,10 @@
       }
     ]
   },
-  "logo": "/images/logo.png",
+  "logo": {
+    "light": "/images/grafite-logo.png",
+    "dark": "/images/logo.png"
+  },
   "navbar": {
     "links": [
       {
@@ -101,5 +103,9 @@
     "color": {
       "dark": "#0f0f10"
     }
+  },
+  "favicon": {
+    "light": "/images/icon.png",
+    "dark": "/images/icon.png"
   }
 }
